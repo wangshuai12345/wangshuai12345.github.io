@@ -5,13 +5,11 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: java/agls
+avatarDesc: java/Algorithms
 
 
 # Comment
-comment:
-    # disqus: leopard
-    duoshuo: leopard 
+
 
 # Social
 social:
