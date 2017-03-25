@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王帅</title>
+    <description>欢迎来到我的个人站~</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Mar 2017 13:04:41 +0800</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 13:04:41 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>学习心得</title>
+        <description>&lt;p&gt;﻿—
+layout: post
+title: 换个思路
+date: 2017-03-14
+description: 
+tag: 心灵鸡汤
+—&lt;/p&gt;
+
+&lt;p&gt;这两天在看《java编程思想》，真实IT界的圣经啊，那语言真实真实晦涩，也可能是翻译的问题，勉强能通过代码看的明白。接下来准备换本书看，由浅入深，也没别的方法了
+，看看算法，打好基础。
+##心得：
+没有看不懂的书，如果有那就多看两遍。一点一点修行吧，把面饼摊的越大，越不好控制。怎么利用碎片化时间呢？就比如怎么背单词吗？你说怎么背单词呢？
+一个一个背呗，反复多背几遍，你也不要绞尽脑汁的思考，用你那点知识来解决现有的问题。
+什么词根，联想记忆法，那只是你牢牢的记住单词语法之后的领悟而已，而大多数人却把这当做记住单词的方法。知识这东西没什么太大的捷径。只有，行动，使用，试错，迭代，吸收。&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Mar 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/03/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>“王帅最帅”</title>
+        <description>&lt;p&gt;　　经过各种找资料，踩过各种坑，终于使用 jekyll 和github搭建个人博客初步完成了，本人穷光蛋一个买不起域名，就凑合着自己用吧。前几天又买了篮球花了十几刀，又买了点儿家乡的咸菜。真穷。&lt;/p&gt;
+
+&lt;h2 id=&quot;前戏&quot;&gt;前戏：&lt;/h2&gt;
+&lt;p&gt;　 其实早就想写博客了，一直都在找平台，像CSDN，博客园，但是样式我不喜欢，所以一直搁置，也没坚持下去，眼看着已经大二了，也快毕业了，是该沉淀下来写点东西了（呵呵，也有一点儿小情怀）。
+这个博客，我也不限定主题，可以 吐槽社会不良风气，抒发一下自己小情绪，感悟一下人生不易，敞怀自己的前途。哈，像大夏天，顶着烈阳，拿着酒瓶换冰棍的感觉。I am my king.&lt;/p&gt;
+
+&lt;p&gt;##正文：
+最近，哦不，故事应该追溯到高考毕业那个暑假，看到了腾讯推荐的课程，
+关于网页前端的课程，在那时候，我心里就低估着能不能自己也做一个网站，大学一年级下学期，就开始着手
+打代码了，期间断断续续，心情好时就看两集视频。在到大二上学期慢慢的摸索，有认识了和我同年出生的程序语言java（室友戏称j‘av’a ）目前为止感觉是
+入门了吧，接下来的一年（2017）我感觉我要搞些事情了。&lt;/p&gt;
+
+&lt;p&gt;##结束语
+	2017年，把一些经典的java书都过一遍，撸起袖子干，经验告诉我：只要努力，没有
+	什么事是你搞不砸的。
+每星期更新一篇吧。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Mar 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/03/%E7%8E%8B%E5%B8%85%E6%9C%80%E5%B8%85/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/%E7%8E%8B%E5%B8%85%E6%9C%80%E5%B8%85/</guid>
+        
+        <category>hello world</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
